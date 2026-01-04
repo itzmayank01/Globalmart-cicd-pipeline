@@ -61,8 +61,7 @@ and application screenshots are available inside the
 
 ---
 
-## Author
-**Mayank Thakur**  
-B.Tech CSE (Cloud Computing), UPES Dehradun  
 
 GitHub: https://github.com/itzmayank01
+gmail: mayankthakur9181@gmail.com
+
