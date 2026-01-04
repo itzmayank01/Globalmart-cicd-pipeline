@@ -18,10 +18,14 @@ and deploys the application to the EC2 server.
 ![CI/CD Architecture](screenshots/Architecture.jpeg)
 
 ## Tech Stack Used
-- React.js             - GitHub
-- AWS EC2              - AWS CodePipeline
-- AWS CodeDeploy       - AWS S3
-- AWS IAM              - AWS CloudWatch
+- React.js
+- GitHub
+- AWS EC2
+- AWS CodePipeline
+- AWS CodeDeploy
+- AWS S3
+- AWS IAM
+- AWS CloudWatch
 
 
 ## Architecture Flow
