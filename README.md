@@ -29,7 +29,7 @@ and deploys the application to the EC2 server.
 ---
 
 ## CI/CD Architecture
-![CI/CD Architecture](screenshots/architecture.jpeg)
+![CI/CD Architecture](screenshots/Architecture.jpeg)
 
 ---
 
