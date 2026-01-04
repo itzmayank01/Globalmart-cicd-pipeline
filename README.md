@@ -14,24 +14,15 @@ instance using **AWS CodePipeline** and **AWS CodeDeploy**.
 Whenever code is pushed to GitHub, the pipeline automatically builds
 and deploys the application to the EC2 server.
 
----
-
-## Tech Stack Used
-- React.js
-- GitHub
-- AWS EC2
-- AWS CodePipeline
-- AWS CodeDeploy
-- AWS S3
-- AWS IAM
-- AWS CloudWatch
-
----
-
 ## CI/CD Architecture
 ![CI/CD Architecture](screenshots/Architecture.jpeg)
 
----
+## Tech Stack Used
+- React.js             - GitHub
+- AWS EC2              - AWS CodePipeline
+- AWS CodeDeploy       - AWS S3
+- AWS IAM              - AWS CloudWatch
+
 
 ## Architecture Flow
 1. Developer pushes code to GitHub  
