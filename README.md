@@ -1,5 +1,5 @@
 
-# GlobalMart CI/CD Pipeline (AWS)
+# GlobalMart CI/CD Pipeline (AWS) 
 
 ## Project Purpose
 The purpose of this project is to implement a real-world **CI/CD pipeline**
